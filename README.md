@@ -26,15 +26,16 @@ The platform identifies the product and its ingredients.
 Provides a verdict on whether the product is harmful, along with recommendations.
 
 #Technology Used
-Ibm services: IBM Large Vision Model (LVM), IBM Watson Assistant, Watsonx
-Libraries used: Flask, Pillow, PyMuPDF (fitz) 
-Programming Language: Python 3.10
-Development Environment: Code Editor, VS Code
+* Ibm services: IBM Large Vision Model (LVM), IBM Watson Assistant, Watsonx.
+* Libraries used: Flask, Pillow, PyMuPDF (fitz). 
+* Programming Language: Python 3.10.
+* Development Environment: Code Editor, VS Code.
 
 # Getting Started
-Frontend:
+* Frontend:
 Navigate to your frontend directory, install dependencies and run.
-Backend:
+
+* Backend:
 Navigate to the api directory. Install dependencies from the requirement.txt file. Run the backend server: python app.py
 
 
