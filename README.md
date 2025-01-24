@@ -1,7 +1,7 @@
 # HealthNova Overview
-Project Name: HealthNova
-Domain: Healthcare Technology
-Objective: To create a user-friendly platform that integrates modern technology to assist users in understanding health reports, finding natural remedies, and evaluating the safety of daily-use products.
+* Project Name: HealthNova.
+* Domain: Healthcare Technology.
+* Objective: To create a user-friendly platform that integrates modern technology to assist users in understanding health reports, finding natural remedies, and evaluating the safety of daily-use products.
 
 # Key Features and Modules
 1. PDF Report Summary Module
